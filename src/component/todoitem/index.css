@@ -1,0 +1,25 @@
+.item-container{
+    border-bottom: 1px solid #8BC34A;
+    padding: 15px 20px;
+    position: relative;
+}
+.item-container .del-container{
+    position: absolute;
+    right: 20px;
+    top: 15px;
+}
+.chk{
+    width: 20px;
+    height: 20px;
+    border: 1px solid gray;
+    display: inline-block;
+    margin-right: 10px;
+}
+.chk1{
+    background-color: red;
+}
+.text{
+    position: absolute;
+    top: 12px;
+    font-size: 18px;
+}
